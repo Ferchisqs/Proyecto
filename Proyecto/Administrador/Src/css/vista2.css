@@ -1,0 +1,228 @@
+body{
+	margin: 0%;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+}
+
+.e2_11 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:100%;
+	height:900px;
+	position:absolute;
+    overflow:hidden;
+  margin: 0%;
+	
+}
+.e2_12 { 
+	color:rgba(255, 255, 255, 1);
+	width:469px;
+	height:48px;
+	position:absolute;
+	left:521px;
+	top:35px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+	left: 36%;
+}
+.e2_13 { 
+	color:rgba(255, 255, 255, 1);
+	width:301px;
+	height:19px;
+	position:absolute;
+	left:605px;
+	top:100px;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 43%;
+}
+.e2_18 { 
+	background-image:linear-gradient(0deg, rgba(240.12499898672104, 9.004696011543274, 9.004696011543274, 1) 0%,rgba(255, 0, 0, 0.6770833134651184) 93.22916865348816%,rgba(255, 0, 0, 0) 100%) ;
+	width:254px;
+	height:51px;
+	position:absolute;
+	left:629px;
+	top:480px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	left: 43%;
+}
+.e2_19 { 
+	color:rgba(255, 255, 255, 1);
+	width:95px;
+	height:24px;
+	position:absolute;
+	left:708px;
+	top:492px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	left: 49.05%;
+}
+.e2_20 { 
+	color:rgba(255, 255, 255, 1);
+	width:149px;
+	height:19px;
+	position:absolute;
+	left:612px;
+	top:550px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 43%;
+}
+.e8_321 { 
+	color:rgba(255, 255, 255, 1);
+	width:140px;
+	height:19px;
+	position:absolute;
+	left:761px;
+	top:550px;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 54%;
+}
+.e2_23 { 
+	color:rgba(255, 255, 255, 1);
+	width:143px;
+	height:24px;
+	position:absolute;
+	left:573px;
+	top:260px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	left: 38%;
+}
+.e2_24 { 
+	color:rgba(255, 255, 255, 1);
+	width:197px;
+	height:24px;
+	position:absolute;
+	left:573px;
+	top:359px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	left: 38%;
+}
+.e2_25 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:366px;
+	height:43px;
+	position:absolute;
+	left:573px;
+	top:299px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+    border:1px solid rgba(255, 0, 0, 1);
+	left: 39%;
+}
+
+
+.e2_26 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:366px;
+	height:43px;
+	position:absolute;
+	left:573px;
+	top:390px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+    border:1px solid rgba(255, 0, 0, 1);
+	left: 39%;
+}
+
+.e4_69 { 
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:780px;
+	top: 400px;
+	background-image:url(../images/checkmark\ \(1\).png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+	
+}
+.e2_27 { 
+	color:rgba(26.000000350177288, 9.000000413507223, 9.000000413507223, 0.6499999761581421);
+	width:197px;
+	height:19px;
+	position:absolute;
+	left:594px;
+	top:400px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 40%;
+}
+.e2_28 { 
+	color:rgba(26.000000350177288, 9.000000413507223, 9.000000413507223, 0.6499999761581421);
+	width:186px;
+	height:19px;
+	position:absolute;
+	left:594px;
+	top:500px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 40%;
+}
+.e2_30 { 
+	color:rgba(255, 255, 255, 1);
+	width:53px;
+	height:24px;
+	position:absolute;
+	left:573px;
+	top:156px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	left: 38%;
+}
+.e2_31 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:366px;
+	height:43px;
+	position:absolute;
+	left:573px;
+	top:197px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+    border:1px solid rgba(255, 0, 0, 1);
+    left: 39%;
+}
+
+.e2_32 { 
+	color:rgba(26.000000350177288, 9.000000413507223, 9.000000413507223, 0.6499999761581421);
+	width:141px;
+	height:19px;
+	position:absolute;
+	left:594px;
+	top:239px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	left: 40%;
+}
